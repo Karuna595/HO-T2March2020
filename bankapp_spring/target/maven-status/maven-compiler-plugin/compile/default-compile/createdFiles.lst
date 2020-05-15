@@ -1,0 +1,5 @@
+com\mastek\bankapp_spring\dao\IDao.class
+com\mastek\bankapp_spring\dao\BankAccountDao.class
+com\mastek\bankapp_spring\model\BankAccount.class
+com\mastek\bankapp_spring\dao\BankAccountRowMapper.class
+com\mastek\bankapp_spring\App.class
