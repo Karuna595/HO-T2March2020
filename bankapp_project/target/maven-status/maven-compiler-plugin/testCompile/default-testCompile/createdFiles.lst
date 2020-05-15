@@ -1,0 +1,4 @@
+com\mastek\bankapp_project\AppTest.class
+com\mastek\bankapp_project\service\BankAccountServiceTest.class
+com\mastek\bankapp_project\dao\DBConnectionTest.class
+com\mastek\bankapp_project\dao\BankAccountDaoTest.class
